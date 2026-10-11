@@ -1,6 +1,5 @@
 
 -- =====================================================
--- TASK FORGE - DAY 2
 -- Project: Global AI Agent Workforce Integration 2026
 -- Tool: SQLiteOnline
 -- Focus: SQL Business Analysis
