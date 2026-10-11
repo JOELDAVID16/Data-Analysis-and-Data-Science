@@ -67,7 +67,7 @@ McDonalds-Product-Information/
 │   └── mcdonalds_2026_dataset.csv
 │
 ├── powerbi/
-│   └── McDonalds_Product_Information.pbix
+│   └── Macdonalds-Product-Information.pbix
 │
 └── screenshots/
     ├── page1.png
